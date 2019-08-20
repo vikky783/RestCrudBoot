@@ -16,7 +16,6 @@
 
 	<name>20-hibernate-basic-cruddemo</name>
 	<description>Demo project for Spring Boot</description>
-
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
